@@ -388,15 +388,6 @@ public static void main(String[] args) {
         	 myFtp.download("/22.ts", "g:\\test\\5555.ts");
 //           Thread th1 = new Thread(myFtp);
 //           th1.start();
-           
-           
-           
-//           myFtp.ftpClient.makeDirectory(new String(" 走西口".getBytes("GBK"),"iso-8859-1"));   
-//           System.out.println(myFtp.upload("http://www.5a520.cn /yw.flv", "/yw.flv",5));   
-        	 
-//           System.out.println(myFtp.upload("g:\\22.ts", "/22.ts"));   
-//           System.out.println(myFtp.upload("http://www.5a520.cn /走西口24.mp4","/央视走西口/新浪网/走西口 24.mp4"));   
-          //   System.out.println(myFtp.download("/ 央视走西口/新浪网/走西口24.mp4", "E:\\走西口242.mp4")); 
           
 //           this.download(file1, file2); 
          //  System.out.println(myFtp.upload("c:\\a.iso", "/a.iso")); 
