@@ -400,6 +400,7 @@ public static void main(String[] args) {
           
 //           this.download(file1, file2); 
          //  System.out.println(myFtp.upload("c:\\a.iso", "/a.iso")); 
+        	 System.out.println("test svn");
         	 myFtp.disconnect();   
          } catch (IOException e) {   
              System.out.println("连接FTP出错："+e.getMessage());   
